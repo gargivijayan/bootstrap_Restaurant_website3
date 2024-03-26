@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.container-fluid{
+    background-color: orangered;
+    height: 120px;
+}
+.images{
+    height: 250px !important;
+}
+
+.end{
+    background-color: orangered;
+  
+
+}
+.slide{
+    height: 800px;
+}
+.a{background-color: orangered;}
+
+
